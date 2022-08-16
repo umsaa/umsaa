@@ -1,1 +1,2 @@
-### Hi umarr 🥶🥶 [foto estetik](/foto.webp)
+### Hi umarr 🥶🥶
+![foto estetik](/foto.webp)
